@@ -1,8 +1,10 @@
 # 文言文翻译对照 · guanfu-wenyanwen-fanyi
 
-> 把文言文翻译拆成七张可核对的表：常用虚词对照、高频实词古今异义、通假字、特殊句式、断句与翻译五步法、固定句式与常见搭配、教材篇目原句对照。译文采用通行译法并标注出处，遇到拿不准的地方宁可留白，不凭印象硬译。适合中学生、语文教师、古文爱好者，
+> 把文言文翻译拆成七张可核对的表：常用虚词对照、高频实词古今异义、通假字、特殊句式、断句与翻译五步法、固定句式与常见搭配、教材篇目原句对照。译文采用通行译法并标注出处，遇到拿不准的地方宁可留白，不凭印象硬译。适合中学生、语文教师、古文爱好者，……
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
+
+**English**: Classical Chinese translation assistant — seven cross-checkable reference tables: common function words, archaic-to-modern semantics, phonetic loan characters, special syntax, a five-step translation workflow, fixed sentence patterns, and textbook-sentence comparisons. Built for students, teachers, and classical-Chinese enthusiasts. Cultural reference only.
 
 ---
 
@@ -19,7 +21,7 @@
 3. 零依赖、纯知识方法论包——不联网、不调付费接口。
 
 ```bash
-git clone https://github.com/guanfujushi/guanfu-wenyanwen-fanyi.git
+git clone https://github.com/guanfujushi/guanfu-wenyanwen-fanyi.git && cp -r guanfu-wenyanwen-fanyi ~/.skills/   # 一键下载并装进 skills 目录
 ```
 
 ## 目录结构
@@ -33,6 +35,8 @@ guanfu-wenyanwen-fanyi/
 
 ## 联系与合作
 
+- 🤝 **商务合作**：`13148728713`
+- 💬 **微信号**：`guanfujs`
 - 📱 **技能市场**：在技能市场搜索「**观复居士**」，可以看到本系列全部技能
 - 📰 **公众号**：观复的国学笔记（国学 · 命理文化 · AI 内容工程系列更新）
 
