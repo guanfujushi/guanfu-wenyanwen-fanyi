@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-wenyanwen-fanyi)
+
 **English**: Classical Chinese translation assistant — seven cross-checkable reference tables: common function words, archaic-to-modern semantics, phonetic loan characters, special syntax, a five-step translation workflow, fixed sentence patterns, and textbook-sentence comparisons. Built for students, teachers, and classical-Chinese enthusiasts. Cultural reference only.
 
 ---
